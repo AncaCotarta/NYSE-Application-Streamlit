@@ -2,7 +2,7 @@
 ## Lien de l'application
 https://nyse-app-app-clean-zjxzjxxkxfev7jnmriuypg.streamlit.app/
 ## Lien du GITHUB
-https://github.com/DataPEprojects/NYSE-streamlit-app-clean?tab=readme-ov-file
+https://github.com/AncaCotarta/NYSE-Application-Streamlit
 ## Lien du dataset
 https://www.kaggle.com/datasets/dgawlik/nyse
 ## Présentation du Projet
